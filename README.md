@@ -1,4 +1,4 @@
-# BMI Calculation
+# BMI Calculator
 
 Flutter BMI simple calculator project design by me from class with En Khirul Nizam.  
 
