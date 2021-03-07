@@ -22,3 +22,5 @@ samples, guidance on mobile development, and a full API reference.
 | Page 1      | Page 2      |
 |------------|-------------|
 | <img src="../master/assets/screenshot-bmi-app.png" width="320px"> | <img src="../master/assets/screenshot-bmi-app1.png" width="320px"> |
+
+[Markdown](https://stackoverflow.com/a/54976295/11442021)
