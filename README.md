@@ -1,16 +1,25 @@
 # bmicalculation
 
-A new Flutter project.
+Flutter BMI simple calculator project design by me from class with En Khirul Nizam.  
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Details learning lesson:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+1) Widget is a interfaces.
+2) Material app is a template/theme.
+3) Scaffold is a screen.
+4) ListView is a linear layout.
+5) Navigator.of to navigate into another pages.
+6) Actions at appbar to put clickable icon on the right sides.
+7) Stateful is a dynamic content/data.
+8) Stateless is a static content/data.
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Screenshot App
+
+![BMI app](../assets/screenshot-bmi-app.png)
+![BMI app 1](../assets/screenshot-bmi-app1.png)
