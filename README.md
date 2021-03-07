@@ -1,8 +1,8 @@
-# bmicalculation
+# BMI Calculation
 
 Flutter BMI simple calculator project design by me from class with En Khirul Nizam.  
 
-## Output learning lesson
+## Output Learning Lesson
 
 1) Widget is a interfaces.
 2) Material app is a template/theme.
