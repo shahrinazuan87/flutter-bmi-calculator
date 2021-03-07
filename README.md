@@ -23,4 +23,5 @@ samples, guidance on mobile development, and a full API reference.
 |------------|-------------|
 | <img src="../master/assets/screenshot-bmi-app.png" width="320px"> | <img src="../master/assets/screenshot-bmi-app1.png" width="320px"> |
 
-[Markdown](https://stackoverflow.com/a/54976295/11442021)
+- [Markdown screenshot app by column](https://stackoverflow.com/a/54976295/11442021)
+- [How to remove flutter debug banner](https://stackoverflow.com/a/65166424/11442021)
