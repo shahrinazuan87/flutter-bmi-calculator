@@ -2,9 +2,7 @@
 
 Flutter BMI simple calculator project design by me from class with En Khirul Nizam.  
 
-## Getting Started
-
-Details learning lesson:
+## Output learning lesson
 
 1) Widget is a interfaces.
 2) Material app is a template/theme.
@@ -21,5 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshot App
 
-![BMI app](../assets/screenshot-bmi-app.png)
-![BMI app 1](../assets/screenshot-bmi-app1.png)
+| Page 1      | Page 2      |
+|------------|-------------|
+| <img src="../master/assets/screenshot-bmi-app.png" width="320px"> | <img src="../master/assets/screenshot-bmi-app1.png" width="320px"> |
